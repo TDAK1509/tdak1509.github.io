@@ -1,0 +1,1 @@
+import{_ as c,o as s,c as n,r as o}from"./index-DIOs2FVU.js";const a={},t={class:"app-panel"};function r(e,_){return s(),n("div",t,[o(e.$slots,"default",{},void 0)])}const p=c(a,[["render",r],["__scopeId","data-v-ccb95fc0"]]);export{p as A};
