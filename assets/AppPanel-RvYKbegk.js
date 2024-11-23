@@ -1,1 +1,0 @@
-import{_ as s,o as c,c as n,r as o}from"./index-BdTjd-Ah.js";const a={},t={class:"app-panel"};function r(e,_){return c(),n("div",t,[o(e.$slots,"default",{},void 0)])}const p=s(a,[["render",r],["__scopeId","data-v-f6c7be29"]]);export{p as A};

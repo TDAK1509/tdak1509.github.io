@@ -1,0 +1,1 @@
+import{_ as e,c,o as s}from"./index-CS8rbARD.js";const a={},n={class:"experiences-page"};function o(t,r){return s(),c("section",n,"Experiences page")}const p=e(a,[["render",o],["__scopeId","data-v-0762a854"]]);export{p as default};
